@@ -1,1 +1,1 @@
-# MyAppLocalStack
+# MyLocalStack
